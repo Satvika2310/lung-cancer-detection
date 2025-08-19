@@ -63,7 +63,7 @@ The model achieved 90% overall accuracy with ~0.95 AUC, strong cancer recall (87
 
 <p float="left">
   <img src="result/learning_curve_auc.png" width="45%" />  
-  <img src="result/learning_curve_loss.png" width="44%" />  
+  <img src="result/learning_curve_loss.png" width="45%" />  
 </p>
 
 ---
