@@ -74,9 +74,3 @@ The model achieved 90% overall accuracy with ~0.95 AUC, strong cancer recall (87
 * Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). *Densely Connected Convolutional Networks*. CVPR.  
 * Medical image augmentation techniques adapted from [nnU-Net](https://arxiv.org/abs/1809.10486) and [MedicalTorch](https://github.com/perone/medicaltorch).
 
----
-
-## Author
-
-**Samiksha Patel**  
-GitHub: [https://github.com/samikshapatel27](https://github.com/samikshapatel27)
